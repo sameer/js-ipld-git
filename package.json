@@ -40,7 +40,7 @@
     "cids": "~0.5.2",
     "multicodec": "~0.4.0",
     "multihashes": "~0.4.12",
-    "multihashing-async": "~0.5.1",
+    "multihashing-async": "~0.5.2",
     "smart-buffer": "^4.0.0",
     "traverse": "~0.6.6"
   },
